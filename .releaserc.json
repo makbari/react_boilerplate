@@ -1,6 +1,6 @@
 {
   "branches": ["main"],
-  "repositoryUrl": "git@github.com:makbari/reac_boilerplate.git",
+  "repositoryUrl": "git@github.com:makbari/react_boilerplate.git",
   "debug": "true",
   "plugins": [
     "@semantic-release/commit-analyzer",
